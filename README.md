@@ -9,3 +9,4 @@ Our primary objectives include:
 	Implement a review system to gather feedback from students about tutor sessions – Students can leave reviews about their sessions. 
 	Enhance communication between students and tutors via in-app messaging.
 	Notify both tutors and students about booking requests, and confirmations.
+![settings](https://github.com/user-attachments/assets/56632f01-8a9b-4de2-82c8-63987042b129)
